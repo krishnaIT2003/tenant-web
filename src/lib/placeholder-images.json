@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQ2NzYxNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "User avatar placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQ2NzYxNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "catalog-product-1",
+      "description": "Catalog product placeholder image",
+      "imageUrl": "https://images.unsplash.com/photo-1662350688650-c172ba90270a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9kZXJuJTIwcHJvZHVjdHxlbnwwfHx8fDE3NjQ2ODk5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern product"
+    },
+    {
+      "id": "catalog-product-2",
+      "description": "Catalog product placeholder image",
+      "imageUrl": "https://images.unsplash.com/photo-1764155072109-186c56ce3891?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbGVjdHJvbmljcyUyMGdhZGdldHxlbnwwfHx8fDE3NjQ2MjM5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electronics gadget"
+    },
+    {
+      "id": "catalog-product-3",
+      "description": "Catalog product placeholder image",
+      "imageUrl": "https://images.unsplash.com/photo-1630699376564-5506f3f1e2e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8a2l0Y2hlbiUyMGFwcGxpYW5jZXxlbnwwfHx8fDE3NjQ2NDk2NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen appliance"
+    }
+  ]
+}
