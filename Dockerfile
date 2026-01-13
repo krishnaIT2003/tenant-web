@@ -1,4 +1,4 @@
-# 1️⃣ Base image
+# 1️⃣ Base images
 FROM node:20-alpine AS base
 WORKDIR /app
 
